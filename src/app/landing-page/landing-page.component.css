@@ -1,0 +1,25 @@
+.align-page{
+    text-align: center !important;
+}
+
+.position-div{
+    margin-top: 10%;
+}
+
+.lowest-div{
+    margin-top: 15%; 
+    display: flex;
+}
+
+.btn1, .btn2{
+    color:#F5FFFA !important; 
+    border-color: #F5FFFA !important;
+}
+
+.btn1{
+    width: 200px;
+}
+
+.btn2{
+    width: 100%;
+}

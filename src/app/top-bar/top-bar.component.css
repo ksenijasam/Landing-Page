@@ -1,0 +1,25 @@
+.div-style{
+    display:flex;
+    margin: 10px auto; 
+    width: auto;
+}
+
+.row-style{
+    display:flex;
+    margin: 0 auto; 
+    align-items: center;
+}
+
+.a-tag-style{
+    float: right;
+    text-decoration: none;
+    color:#F5FFFA;
+    cursor: pointer;
+}
+
+.btn-style{
+    float:right;
+    border-color: #F5FFFA;
+    color: #F5FFFA;
+}
+
